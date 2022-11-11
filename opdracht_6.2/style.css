@@ -1,0 +1,29 @@
+.blok1{
+    width: 200px;
+    height: 200px;
+   background-color: blue;
+ 
+}
+.blok2{
+    width: 200px;
+    height: 200px;
+    background-color: black;
+
+    
+}
+.blok3{
+    width: 200px;
+    height: 200px;
+    background-color: red;
+}
+.blok4{
+    width: 200px;
+    height: 200px;
+    background-color: green;
+}
+.random{
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap-reverse;
+    width: 1200px;
+}

@@ -1,0 +1,47 @@
+
+    
+
+
+*{
+    margin: 0%;
+    padding: 0%;
+}
+.logo{
+    background-color: blue;
+    height: 10vh;
+    width: 100;
+}
+
+.title{
+    background-color: red;
+    height: 30vh;
+    width: 100;
+}
+.title2{
+    background-color: darkcyan;
+    height: 30vh;
+    width: 100;
+}
+.title3{
+    background-color: aquamarine;
+    height: 30vh;
+    width: 100;
+}
+
+@media screen and (max-width: 600px) {
+    
+    .title{
+        background-color: yellow
+    }
+    .logo{
+        background-color: blueviolet;
+    }
+    .title2{
+        background-color: chartreuse;
+
+    }
+    .title3{
+        background-color: chocolate;
+    }
+}
+
