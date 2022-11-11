@@ -27,6 +27,22 @@
     height: 30vh;
     width: 100;
 }
+@media screen and (max-width:1023px) {
+    .title{
+        background-color: #D802FE;
+    }
+    .logo{
+        background-color: #34C6B8
+    }
+    .title2{
+        background-color: #CB302B;
+    }
+    .title3{
+        background-color: #2F6BFF;
+    }
+    
+    }   
+    
 
 @media screen and (max-width: 600px) {
     
@@ -44,4 +60,5 @@
         background-color: chocolate;
     }
 }
+
 
